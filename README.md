@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Jayesh404/LeetCode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Jayesh404/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0198-house-robber](https://github.com/Jayesh404/LeetCode/tree/master/0198-house-robber) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Jayesh404/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Dynamic Programming
@@ -12,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/Jayesh404/LeetCode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Jayesh404/LeetCode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Jayesh404/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0198-house-robber](https://github.com/Jayesh404/LeetCode/tree/master/0198-house-robber) |
 ## Math
 |  |
@@ -26,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Jayesh404/LeetCode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Jayesh404/LeetCode/tree/master/0064-minimum-path-sum) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
