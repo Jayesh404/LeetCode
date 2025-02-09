@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Jayesh404/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Jayesh404/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2350-find-closest-number-to-zero](https://github.com/Jayesh404/LeetCode/tree/master/2350-find-closest-number-to-zero) |
+| [2448-count-number-of-bad-pairs](https://github.com/Jayesh404/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Jayesh404/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3264-maximum-points-after-enemy-battles](https://github.com/Jayesh404/LeetCode/tree/master/3264-maximum-points-after-enemy-battles) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Jayesh404/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/Jayesh404/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0798-transform-to-chessboard](https://github.com/Jayesh404/LeetCode/tree/master/0798-transform-to-chessboard) |
 | [0963-three-equal-parts](https://github.com/Jayesh404/LeetCode/tree/master/0963-three-equal-parts) |
+| [2448-count-number-of-bad-pairs](https://github.com/Jayesh404/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Jayesh404/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Combinatorics
 |  |
@@ -178,12 +180,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/Jayesh404/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [1502-construct-k-palindrome-strings](https://github.com/Jayesh404/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Jayesh404/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2448-count-number-of-bad-pairs](https://github.com/Jayesh404/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 ## Counting
 |  |
 | ------- |
 | [1396-count-servers-that-communicate](https://github.com/Jayesh404/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/Jayesh404/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Jayesh404/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2448-count-number-of-bad-pairs](https://github.com/Jayesh404/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 ## Union Find
 |  |
 | ------- |
