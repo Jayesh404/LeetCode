@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0921-spiral-matrix-iii](https://github.com/Jayesh404/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Jayesh404/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [3447-clear-digits](https://github.com/Jayesh404/LeetCode/tree/master/3447-clear-digits) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Jayesh404/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Tree
 |  |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/Jayesh404/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Jayesh404/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Jayesh404/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3447-clear-digits](https://github.com/Jayesh404/LeetCode/tree/master/3447-clear-digits) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-construct-k-palindrome-strings](https://github.com/Jayesh404/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Jayesh404/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Jayesh404/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [3447-clear-digits](https://github.com/Jayesh404/LeetCode/tree/master/3447-clear-digits) |
 ## Hash Table
 |  |
 | ------- |
