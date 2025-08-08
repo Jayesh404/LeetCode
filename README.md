@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Jayesh404/LeetCode/tree/master/0198-house-robber) |
 | [0494-target-sum](https://github.com/Jayesh404/LeetCode/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Jayesh404/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0826-soup-servings](https://github.com/Jayesh404/LeetCode/tree/master/0826-soup-servings) |
 | [1063-best-sightseeing-pair](https://github.com/Jayesh404/LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Jayesh404/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2562-count-ways-to-build-good-strings](https://github.com/Jayesh404/LeetCode/tree/master/2562-count-ways-to-build-good-strings) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/Jayesh404/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0797-rabbits-in-forest](https://github.com/Jayesh404/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0798-transform-to-chessboard](https://github.com/Jayesh404/LeetCode/tree/master/0798-transform-to-chessboard) |
+| [0826-soup-servings](https://github.com/Jayesh404/LeetCode/tree/master/0826-soup-servings) |
 | [0963-three-equal-parts](https://github.com/Jayesh404/LeetCode/tree/master/0963-three-equal-parts) |
 | [2448-count-number-of-bad-pairs](https://github.com/Jayesh404/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Jayesh404/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
@@ -243,4 +245,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Jayesh404/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0826-soup-servings](https://github.com/Jayesh404/LeetCode/tree/master/0826-soup-servings) |
 <!---LeetCode Topics End-->
