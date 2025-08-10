@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/Jayesh404/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0798-transform-to-chessboard](https://github.com/Jayesh404/LeetCode/tree/master/0798-transform-to-chessboard) |
 | [0826-soup-servings](https://github.com/Jayesh404/LeetCode/tree/master/0826-soup-servings) |
+| [0900-reordered-power-of-2](https://github.com/Jayesh404/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [0963-three-equal-parts](https://github.com/Jayesh404/LeetCode/tree/master/0963-three-equal-parts) |
 | [2448-count-number-of-bad-pairs](https://github.com/Jayesh404/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Jayesh404/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Jayesh404/LeetCode/tree/master/0075-sort-colors) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Jayesh404/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
+| [0900-reordered-power-of-2](https://github.com/Jayesh404/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Jayesh404/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3647-zero-array-transformation-iii](https://github.com/Jayesh404/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 ## Depth-First Search
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0797-rabbits-in-forest](https://github.com/Jayesh404/LeetCode/tree/master/0797-rabbits-in-forest) |
+| [0900-reordered-power-of-2](https://github.com/Jayesh404/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Jayesh404/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1502-construct-k-palindrome-strings](https://github.com/Jayesh404/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Jayesh404/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -213,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0900-reordered-power-of-2](https://github.com/Jayesh404/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1396-count-servers-that-communicate](https://github.com/Jayesh404/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/Jayesh404/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Jayesh404/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -255,4 +259,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Jayesh404/LeetCode/tree/master/0231-power-of-two) |
+## Enumeration
+|  |
+| ------- |
+| [0900-reordered-power-of-2](https://github.com/Jayesh404/LeetCode/tree/master/0900-reordered-power-of-2) |
 <!---LeetCode Topics End-->
