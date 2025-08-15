@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/Jayesh404/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0231-power-of-two](https://github.com/Jayesh404/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Jayesh404/LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Jayesh404/LeetCode/tree/master/0342-power-of-four) |
 | [0797-rabbits-in-forest](https://github.com/Jayesh404/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0798-transform-to-chessboard](https://github.com/Jayesh404/LeetCode/tree/master/0798-transform-to-chessboard) |
 | [0826-soup-servings](https://github.com/Jayesh404/LeetCode/tree/master/0826-soup-servings) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Jayesh404/LeetCode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/Jayesh404/LeetCode/tree/master/0342-power-of-four) |
 | [0798-transform-to-chessboard](https://github.com/Jayesh404/LeetCode/tree/master/0798-transform-to-chessboard) |
 | [2529-range-product-queries-of-powers](https://github.com/Jayesh404/LeetCode/tree/master/2529-range-product-queries-of-powers) |
 ## Design
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/Jayesh404/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Jayesh404/LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Jayesh404/LeetCode/tree/master/0342-power-of-four) |
 ## Enumeration
 |  |
 | ------- |
