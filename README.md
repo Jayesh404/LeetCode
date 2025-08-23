@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3264-maximum-points-after-enemy-battles](https://github.com/Jayesh404/LeetCode/tree/master/3264-maximum-points-after-enemy-battles) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Jayesh404/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Jayesh404/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Jayesh404/LeetCode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Jayesh404/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Jayesh404/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3639-zero-array-transformation-i](https://github.com/Jayesh404/LeetCode/tree/master/3639-zero-array-transformation-i) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1396-count-servers-that-communicate](https://github.com/Jayesh404/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Jayesh404/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Jayesh404/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
+| [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Jayesh404/LeetCode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Jayesh404/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## Heap (Priority Queue)
 |  |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0900-reordered-power-of-2](https://github.com/Jayesh404/LeetCode/tree/master/0900-reordered-power-of-2) |
+| [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Jayesh404/LeetCode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 ## Sliding Window
 |  |
 | ------- |
