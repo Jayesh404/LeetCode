@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Jayesh404/LeetCode/tree/master/0283-move-zeroes) |
 | [0330-patching-array](https://github.com/Jayesh404/LeetCode/tree/master/0330-patching-array) |
 | [0494-target-sum](https://github.com/Jayesh404/LeetCode/tree/master/0494-target-sum) |
+| [0498-diagonal-traverse](https://github.com/Jayesh404/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0665-non-decreasing-array](https://github.com/Jayesh404/LeetCode/tree/master/0665-non-decreasing-array) |
 | [0679-24-game](https://github.com/Jayesh404/LeetCode/tree/master/0679-24-game) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Jayesh404/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Jayesh404/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Jayesh404/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0498-diagonal-traverse](https://github.com/Jayesh404/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0798-transform-to-chessboard](https://github.com/Jayesh404/LeetCode/tree/master/0798-transform-to-chessboard) |
 | [0921-spiral-matrix-iii](https://github.com/Jayesh404/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [1396-count-servers-that-communicate](https://github.com/Jayesh404/LeetCode/tree/master/1396-count-servers-that-communicate) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/Jayesh404/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0921-spiral-matrix-iii](https://github.com/Jayesh404/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Jayesh404/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Jayesh404/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
