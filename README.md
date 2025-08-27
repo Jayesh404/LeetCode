@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Jayesh404/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3639-zero-array-transformation-i](https://github.com/Jayesh404/LeetCode/tree/master/3639-zero-array-transformation-i) |
 | [3647-zero-array-transformation-iii](https://github.com/Jayesh404/LeetCode/tree/master/3647-zero-array-transformation-iii) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Jayesh404/LeetCode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Jayesh404/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2562-count-ways-to-build-good-strings](https://github.com/Jayesh404/LeetCode/tree/master/2562-count-ways-to-build-good-strings) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/Jayesh404/LeetCode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Jayesh404/LeetCode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Math
 |  |
 | ------- |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1628-count-submatrices-with-all-ones](https://github.com/Jayesh404/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Jayesh404/LeetCode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Jayesh404/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Jayesh404/LeetCode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -307,4 +310,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0867-new-21-game](https://github.com/Jayesh404/LeetCode/tree/master/0867-new-21-game) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Jayesh404/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+## Memoization
+|  |
+| ------- |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Jayesh404/LeetCode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 <!---LeetCode Topics End-->
