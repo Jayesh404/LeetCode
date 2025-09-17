@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-partition-array-according-to-given-pivot](https://github.com/Jayesh404/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Jayesh404/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2350-find-closest-number-to-zero](https://github.com/Jayesh404/LeetCode/tree/master/2350-find-closest-number-to-zero) |
+| [2429-design-a-food-rating-system](https://github.com/Jayesh404/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Jayesh404/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/Jayesh404/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Jayesh404/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1917-maximum-average-pass-ratio](https://github.com/Jayesh404/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
+| [2429-design-a-food-rating-system](https://github.com/Jayesh404/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Jayesh404/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Jayesh404/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Jayesh404/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Jayesh404/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2107-find-unique-binary-string](https://github.com/Jayesh404/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Jayesh404/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [2429-design-a-food-rating-system](https://github.com/Jayesh404/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2887-sort-vowels-in-a-string](https://github.com/Jayesh404/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [3447-clear-digits](https://github.com/Jayesh404/LeetCode/tree/master/3447-clear-digits) |
 | [3462-vowels-game-in-a-string](https://github.com/Jayesh404/LeetCode/tree/master/3462-vowels-game-in-a-string) |
@@ -289,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1834-minimum-number-of-people-to-teach](https://github.com/Jayesh404/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Jayesh404/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2107-find-unique-binary-string](https://github.com/Jayesh404/LeetCode/tree/master/2107-find-unique-binary-string) |
+| [2429-design-a-food-rating-system](https://github.com/Jayesh404/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/Jayesh404/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Jayesh404/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Jayesh404/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -335,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Jayesh404/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [2429-design-a-food-rating-system](https://github.com/Jayesh404/LeetCode/tree/master/2429-design-a-food-rating-system) |
 ## Probability and Statistics
 |  |
 | ------- |
@@ -383,4 +388,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Jayesh404/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
+## Ordered Set
+|  |
+| ------- |
+| [2429-design-a-food-rating-system](https://github.com/Jayesh404/LeetCode/tree/master/2429-design-a-food-rating-system) |
 <!---LeetCode Topics End-->
