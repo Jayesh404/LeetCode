@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-spiral-matrix-iii](https://github.com/Jayesh404/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [0963-three-equal-parts](https://github.com/Jayesh404/LeetCode/tree/master/0963-three-equal-parts) |
 | [1006-vowel-spellchecker](https://github.com/Jayesh404/LeetCode/tree/master/1006-vowel-spellchecker) |
+| [1018-largest-perimeter-triangle](https://github.com/Jayesh404/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1063-best-sightseeing-pair](https://github.com/Jayesh404/LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [1396-count-servers-that-communicate](https://github.com/Jayesh404/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Jayesh404/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-new-21-game](https://github.com/Jayesh404/LeetCode/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/Jayesh404/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [0963-three-equal-parts](https://github.com/Jayesh404/LeetCode/tree/master/0963-three-equal-parts) |
+| [1018-largest-perimeter-triangle](https://github.com/Jayesh404/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Jayesh404/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Jayesh404/LeetCode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/Jayesh404/LeetCode/tree/master/1448-maximum-69-number) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0330-patching-array](https://github.com/Jayesh404/LeetCode/tree/master/0330-patching-array) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Jayesh404/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0797-rabbits-in-forest](https://github.com/Jayesh404/LeetCode/tree/master/0797-rabbits-in-forest) |
+| [1018-largest-perimeter-triangle](https://github.com/Jayesh404/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1448-maximum-69-number](https://github.com/Jayesh404/LeetCode/tree/master/1448-maximum-69-number) |
 | [1502-construct-k-palindrome-strings](https://github.com/Jayesh404/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Jayesh404/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -223,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Jayesh404/LeetCode/tree/master/0075-sort-colors) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Jayesh404/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0900-reordered-power-of-2](https://github.com/Jayesh404/LeetCode/tree/master/0900-reordered-power-of-2) |
+| [1018-largest-perimeter-triangle](https://github.com/Jayesh404/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Jayesh404/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2887-sort-vowels-in-a-string](https://github.com/Jayesh404/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Jayesh404/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
