@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2107-find-unique-binary-string](https://github.com/Jayesh404/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Jayesh404/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Jayesh404/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Jayesh404/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2350-find-closest-number-to-zero](https://github.com/Jayesh404/LeetCode/tree/master/2350-find-closest-number-to-zero) |
 | [2429-design-a-food-rating-system](https://github.com/Jayesh404/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Jayesh404/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Jayesh404/LeetCode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/Jayesh404/LeetCode/tree/master/1448-maximum-69-number) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Jayesh404/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Jayesh404/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Jayesh404/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/Jayesh404/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Jayesh404/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Jayesh404/LeetCode/tree/master/0062-unique-paths) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Jayesh404/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Matrix
 |  |
 | ------- |
@@ -158,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-spiral-matrix-iii](https://github.com/Jayesh404/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Jayesh404/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Jayesh404/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Jayesh404/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Jayesh404/LeetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Jayesh404/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3447-clear-digits](https://github.com/Jayesh404/LeetCode/tree/master/3447-clear-digits) |
