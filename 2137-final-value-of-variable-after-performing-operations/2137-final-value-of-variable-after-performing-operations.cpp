@@ -2,14 +2,12 @@ class Solution {
 public:
     int finalValueAfterOperations(vector<string>& operations) {
         int x=0;
-
-        for(auto it: operations){
-            if(it[0]=='-') x--;
-            else if(it[0]=='+') x++;
-            else if(it[1]=='+') x++;
+        for(int i=0;i<operations.size();i++){
+            string temp=operations[i];
+            if(temp[0]=='+' || temp[2]=='+') x++;
             else x--;
-        }
 
+        }
         return x;
     }
 };
