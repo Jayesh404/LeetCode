@@ -129,12 +129,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Jayesh404/LeetCode/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3462-vowels-game-in-a-string](https://github.com/Jayesh404/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Jayesh404/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Jayesh404/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3830-find-closest-person](https://github.com/Jayesh404/LeetCode/tree/master/3830-find-closest-person) |
 ## Combinatorics
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Jayesh404/LeetCode/tree/master/0062-unique-paths) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Jayesh404/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Jayesh404/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Matrix
 |  |
 | ------- |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Jayesh404/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3447-clear-digits](https://github.com/Jayesh404/LeetCode/tree/master/3447-clear-digits) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Jayesh404/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Jayesh404/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Tree
 |  |
 | ------- |
@@ -328,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2887-sort-vowels-in-a-string](https://github.com/Jayesh404/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [3447-clear-digits](https://github.com/Jayesh404/LeetCode/tree/master/3447-clear-digits) |
 | [3462-vowels-game-in-a-string](https://github.com/Jayesh404/LeetCode/tree/master/3462-vowels-game-in-a-string) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Jayesh404/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3797-design-spreadsheet](https://github.com/Jayesh404/LeetCode/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Jayesh404/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Hash Table
@@ -457,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Jayesh404/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Jayesh404/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Ordered Set
 |  |
 | ------- |
