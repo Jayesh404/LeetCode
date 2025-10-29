@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Jayesh404/LeetCode/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3462-vowels-game-in-a-string](https://github.com/Jayesh404/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Jayesh404/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/Jayesh404/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Jayesh404/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3830-find-closest-person](https://github.com/Jayesh404/LeetCode/tree/master/3830-find-closest-person) |
 ## Combinatorics
@@ -409,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0798-transform-to-chessboard](https://github.com/Jayesh404/LeetCode/tree/master/0798-transform-to-chessboard) |
 | [2529-range-product-queries-of-powers](https://github.com/Jayesh404/LeetCode/tree/master/2529-range-product-queries-of-powers) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Jayesh404/LeetCode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/Jayesh404/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Design
 |  |
 | ------- |
