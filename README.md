@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Jayesh404/LeetCode/tree/master/0283-move-zeroes) |
 | [0330-patching-array](https://github.com/Jayesh404/LeetCode/tree/master/0330-patching-array) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Jayesh404/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0474-ones-and-zeroes](https://github.com/Jayesh404/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/Jayesh404/LeetCode/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/Jayesh404/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0665-non-decreasing-array](https://github.com/Jayesh404/LeetCode/tree/master/0665-non-decreasing-array) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/Jayesh404/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/Jayesh404/LeetCode/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/Jayesh404/LeetCode/tree/master/0198-house-robber) |
+| [0474-ones-and-zeroes](https://github.com/Jayesh404/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/Jayesh404/LeetCode/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Jayesh404/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0826-soup-servings](https://github.com/Jayesh404/LeetCode/tree/master/0826-soup-servings) |
@@ -341,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0474-ones-and-zeroes](https://github.com/Jayesh404/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [1006-vowel-spellchecker](https://github.com/Jayesh404/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Jayesh404/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1502-construct-k-palindrome-strings](https://github.com/Jayesh404/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
