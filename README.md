@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Jayesh404/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Jayesh404/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/Jayesh404/LeetCode/tree/master/0075-sort-colors) |
+| [0085-maximal-rectangle](https://github.com/Jayesh404/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0119-pascals-triangle-ii](https://github.com/Jayesh404/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/Jayesh404/LeetCode/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/Jayesh404/LeetCode/tree/master/0198-house-robber) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Jayesh404/LeetCode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Jayesh404/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Jayesh404/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0085-maximal-rectangle](https://github.com/Jayesh404/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0096-unique-binary-search-trees](https://github.com/Jayesh404/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0119-pascals-triangle-ii](https://github.com/Jayesh404/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/Jayesh404/LeetCode/tree/master/0120-triangle) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Jayesh404/LeetCode/tree/master/0037-sudoku-solver) |
 | [0063-unique-paths-ii](https://github.com/Jayesh404/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Jayesh404/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0085-maximal-rectangle](https://github.com/Jayesh404/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Jayesh404/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0498-diagonal-traverse](https://github.com/Jayesh404/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0794-swim-in-rising-water](https://github.com/Jayesh404/LeetCode/tree/master/0794-swim-in-rising-water) |
@@ -268,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Jayesh404/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/Jayesh404/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Jayesh404/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Jayesh404/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Jayesh404/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
@@ -280,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Jayesh404/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/Jayesh404/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Jayesh404/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Jayesh404/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Jayesh404/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
