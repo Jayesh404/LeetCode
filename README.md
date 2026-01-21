@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Jayesh404/LeetCode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3264-maximum-points-after-enemy-battles](https://github.com/Jayesh404/LeetCode/tree/master/3264-maximum-points-after-enemy-battles) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Jayesh404/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Jayesh404/LeetCode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Jayesh404/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Jayesh404/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Jayesh404/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
@@ -500,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Jayesh404/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2529-range-product-queries-of-powers](https://github.com/Jayesh404/LeetCode/tree/master/2529-range-product-queries-of-powers) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Jayesh404/LeetCode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Jayesh404/LeetCode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Jayesh404/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Design
 |  |
