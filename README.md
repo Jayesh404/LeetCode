@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Jayesh404/LeetCode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Jayesh404/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Jayesh404/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Jayesh404/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Jayesh404/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Jayesh404/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3606-coupon-code-validator](https://github.com/Jayesh404/LeetCode/tree/master/3606-coupon-code-validator) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Jayesh404/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Jayesh404/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Jayesh404/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Jayesh404/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Jayesh404/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3647-zero-array-transformation-iii](https://github.com/Jayesh404/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 | [3678-design-task-manager](https://github.com/Jayesh404/LeetCode/tree/master/3678-design-task-manager) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Jayesh404/LeetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Jayesh404/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3447-clear-digits](https://github.com/Jayesh404/LeetCode/tree/master/3447-clear-digits) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Jayesh404/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Jayesh404/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Jayesh404/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Jayesh404/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -443,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Jayesh404/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Jayesh404/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Jayesh404/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Jayesh404/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3606-coupon-code-validator](https://github.com/Jayesh404/LeetCode/tree/master/3606-coupon-code-validator) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Jayesh404/LeetCode/tree/master/3623-count-number-of-trapezoids-i) |
 | [3678-design-task-manager](https://github.com/Jayesh404/LeetCode/tree/master/3678-design-task-manager) |
@@ -570,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/Jayesh404/LeetCode/tree/master/2429-design-a-food-rating-system) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Jayesh404/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3678-design-task-manager](https://github.com/Jayesh404/LeetCode/tree/master/3678-design-task-manager) |
 | [3827-implement-router](https://github.com/Jayesh404/LeetCode/tree/master/3827-implement-router) |
 | [3863-power-grid-maintenance](https://github.com/Jayesh404/LeetCode/tree/master/3863-power-grid-maintenance) |
@@ -577,4 +582,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Jayesh404/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Jayesh404/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Jayesh404/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 <!---LeetCode Topics End-->
