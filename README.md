@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2448-count-number-of-bad-pairs](https://github.com/Jayesh404/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Jayesh404/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2529-range-product-queries-of-powers](https://github.com/Jayesh404/LeetCode/tree/master/2529-range-product-queries-of-powers) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/Jayesh404/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Jayesh404/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Jayesh404/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Jayesh404/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -416,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2429-design-a-food-rating-system](https://github.com/Jayesh404/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Jayesh404/LeetCode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2887-sort-vowels-in-a-string](https://github.com/Jayesh404/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/Jayesh404/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3447-clear-digits](https://github.com/Jayesh404/LeetCode/tree/master/3447-clear-digits) |
 | [3462-vowels-game-in-a-string](https://github.com/Jayesh404/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Jayesh404/LeetCode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
@@ -596,4 +598,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Jayesh404/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Jayesh404/LeetCode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+## Graph Theory
+|  |
+| ------- |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/Jayesh404/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
+## Shortest Path
+|  |
+| ------- |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/Jayesh404/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
 <!---LeetCode Topics End-->
