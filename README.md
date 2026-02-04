@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3623-count-number-of-trapezoids-i](https://github.com/Jayesh404/LeetCode/tree/master/3623-count-number-of-trapezoids-i) |
 | [3637-trionic-array-i](https://github.com/Jayesh404/LeetCode/tree/master/3637-trionic-array-i) |
 | [3639-zero-array-transformation-i](https://github.com/Jayesh404/LeetCode/tree/master/3639-zero-array-transformation-i) |
+| [3640-trionic-array-ii](https://github.com/Jayesh404/LeetCode/tree/master/3640-trionic-array-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/Jayesh404/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Jayesh404/LeetCode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Jayesh404/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Jayesh404/LeetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2562-count-ways-to-build-good-strings](https://github.com/Jayesh404/LeetCode/tree/master/2562-count-ways-to-build-good-strings) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/Jayesh404/LeetCode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
+| [3640-trionic-array-ii](https://github.com/Jayesh404/LeetCode/tree/master/3640-trionic-array-ii) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Jayesh404/LeetCode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Math
 |  |
