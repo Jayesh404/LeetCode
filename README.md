@@ -545,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Jayesh404/LeetCode/tree/master/0342-power-of-four) |
 | [0401-binary-watch](https://github.com/Jayesh404/LeetCode/tree/master/0401-binary-watch) |
 | [0798-transform-to-chessboard](https://github.com/Jayesh404/LeetCode/tree/master/0798-transform-to-chessboard) |
+| [0868-binary-gap](https://github.com/Jayesh404/LeetCode/tree/master/0868-binary-gap) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Jayesh404/LeetCode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Jayesh404/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2529-range-product-queries-of-powers](https://github.com/Jayesh404/LeetCode/tree/master/2529-range-product-queries-of-powers) |
