@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Jayesh404/LeetCode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3719-longest-balanced-subarray-i](https://github.com/Jayesh404/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Jayesh404/LeetCode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Jayesh404/LeetCode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Jayesh404/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3797-design-spreadsheet](https://github.com/Jayesh404/LeetCode/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/Jayesh404/LeetCode/tree/master/3827-implement-router) |
@@ -528,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3678-design-task-manager](https://github.com/Jayesh404/LeetCode/tree/master/3678-design-task-manager) |
 | [3714-longest-balanced-substring-ii](https://github.com/Jayesh404/LeetCode/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Jayesh404/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Jayesh404/LeetCode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3797-design-spreadsheet](https://github.com/Jayesh404/LeetCode/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/Jayesh404/LeetCode/tree/master/3827-implement-router) |
 | [3863-power-grid-maintenance](https://github.com/Jayesh404/LeetCode/tree/master/3863-power-grid-maintenance) |
