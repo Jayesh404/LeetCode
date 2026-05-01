@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Jayesh404/LeetCode/tree/master/0198-house-robber) |
 | [0283-move-zeroes](https://github.com/Jayesh404/LeetCode/tree/master/0283-move-zeroes) |
 | [0330-patching-array](https://github.com/Jayesh404/LeetCode/tree/master/0330-patching-array) |
+| [0396-rotate-function](https://github.com/Jayesh404/LeetCode/tree/master/0396-rotate-function) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Jayesh404/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0474-ones-and-zeroes](https://github.com/Jayesh404/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/Jayesh404/LeetCode/tree/master/0494-target-sum) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/Jayesh404/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/Jayesh404/LeetCode/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/Jayesh404/LeetCode/tree/master/0198-house-robber) |
+| [0396-rotate-function](https://github.com/Jayesh404/LeetCode/tree/master/0396-rotate-function) |
 | [0474-ones-and-zeroes](https://github.com/Jayesh404/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/Jayesh404/LeetCode/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Jayesh404/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Jayesh404/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Jayesh404/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Jayesh404/LeetCode/tree/master/0342-power-of-four) |
+| [0396-rotate-function](https://github.com/Jayesh404/LeetCode/tree/master/0396-rotate-function) |
 | [0679-24-game](https://github.com/Jayesh404/LeetCode/tree/master/0679-24-game) |
 | [0797-rabbits-in-forest](https://github.com/Jayesh404/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0798-transform-to-chessboard](https://github.com/Jayesh404/LeetCode/tree/master/0798-transform-to-chessboard) |
