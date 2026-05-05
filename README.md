@@ -571,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Jayesh404/LeetCode/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/Jayesh404/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0061-rotate-list](https://github.com/Jayesh404/LeetCode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Jayesh404/LeetCode/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/Jayesh404/LeetCode/tree/master/0283-move-zeroes) |
 | [0696-count-binary-substrings](https://github.com/Jayesh404/LeetCode/tree/master/0696-count-binary-substrings) |
@@ -687,6 +688,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/Jayesh404/LeetCode/tree/master/0061-rotate-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Jayesh404/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Jayesh404/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Jayesh404/LeetCode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
