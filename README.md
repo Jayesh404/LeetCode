@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Jayesh404/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0119-pascals-triangle-ii](https://github.com/Jayesh404/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/Jayesh404/LeetCode/tree/master/0120-triangle) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Jayesh404/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0198-house-robber](https://github.com/Jayesh404/LeetCode/tree/master/0198-house-robber) |
 | [0283-move-zeroes](https://github.com/Jayesh404/LeetCode/tree/master/0283-move-zeroes) |
 | [0330-patching-array](https://github.com/Jayesh404/LeetCode/tree/master/0330-patching-array) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Jayesh404/LeetCode/tree/master/0096-unique-binary-search-trees) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Jayesh404/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Jayesh404/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0794-swim-in-rising-water](https://github.com/Jayesh404/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [1382-balance-a-binary-search-tree](https://github.com/Jayesh404/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
