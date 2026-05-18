@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1063-best-sightseeing-pair](https://github.com/Jayesh404/LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [1200-minimum-absolute-difference](https://github.com/Jayesh404/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1306-jump-game-iii](https://github.com/Jayesh404/LeetCode/tree/master/1306-jump-game-iii) |
+| [1345-jump-game-iv](https://github.com/Jayesh404/LeetCode/tree/master/1345-jump-game-iv) |
 | [1390-four-divisors](https://github.com/Jayesh404/LeetCode/tree/master/1390-four-divisors) |
 | [1396-count-servers-that-communicate](https://github.com/Jayesh404/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Jayesh404/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -442,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/Jayesh404/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0820-find-eventual-safe-states](https://github.com/Jayesh404/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [1306-jump-game-iii](https://github.com/Jayesh404/LeetCode/tree/master/1306-jump-game-iii) |
+| [1345-jump-game-iv](https://github.com/Jayesh404/LeetCode/tree/master/1345-jump-game-iv) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Jayesh404/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/Jayesh404/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Jayesh404/LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
@@ -529,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1006-vowel-spellchecker](https://github.com/Jayesh404/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Jayesh404/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Jayesh404/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1345-jump-game-iv](https://github.com/Jayesh404/LeetCode/tree/master/1345-jump-game-iv) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Jayesh404/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Jayesh404/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1502-construct-k-palindrome-strings](https://github.com/Jayesh404/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
