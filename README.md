@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Jayesh404/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Jayesh404/LeetCode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Jayesh404/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1732-find-the-highest-altitude](https://github.com/Jayesh404/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Jayesh404/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Jayesh404/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Jayesh404/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
@@ -624,6 +625,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0724-find-pivot-index](https://github.com/Jayesh404/LeetCode/tree/master/0724-find-pivot-index) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Jayesh404/LeetCode/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [1732-find-the-highest-altitude](https://github.com/Jayesh404/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Jayesh404/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Jayesh404/LeetCode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2529-range-product-queries-of-powers](https://github.com/Jayesh404/LeetCode/tree/master/2529-range-product-queries-of-powers) |
