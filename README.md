@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Jayesh404/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Jayesh404/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Jayesh404/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [1833-maximum-ice-cream-bars](https://github.com/Jayesh404/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Jayesh404/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1914-cyclically-rotating-a-grid](https://github.com/Jayesh404/LeetCode/tree/master/1914-cyclically-rotating-a-grid) |
 | [1917-maximum-average-pass-ratio](https://github.com/Jayesh404/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
@@ -397,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Jayesh404/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Jayesh404/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Jayesh404/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1833-maximum-ice-cream-bars](https://github.com/Jayesh404/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Jayesh404/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/Jayesh404/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [3264-maximum-points-after-enemy-battles](https://github.com/Jayesh404/LeetCode/tree/master/3264-maximum-points-after-enemy-battles) |
@@ -415,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/Jayesh404/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1200-minimum-absolute-difference](https://github.com/Jayesh404/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Jayesh404/LeetCode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
+| [1833-maximum-ice-cream-bars](https://github.com/Jayesh404/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Jayesh404/LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Jayesh404/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2402-meeting-rooms-iii](https://github.com/Jayesh404/LeetCode/tree/master/2402-meeting-rooms-iii) |
@@ -772,4 +775,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Jayesh404/LeetCode/tree/master/3474-lexicographically-smallest-generated-string) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/Jayesh404/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
