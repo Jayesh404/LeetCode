@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Jayesh404/LeetCode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Jayesh404/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Jayesh404/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Jayesh404/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Jayesh404/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Jayesh404/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Jayesh404/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -573,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2429-design-a-food-rating-system](https://github.com/Jayesh404/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/Jayesh404/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Jayesh404/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Jayesh404/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Jayesh404/LeetCode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Jayesh404/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3488-closest-equal-element-queries](https://github.com/Jayesh404/LeetCode/tree/master/3488-closest-equal-element-queries) |
@@ -689,6 +691,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Jayesh404/LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Jayesh404/LeetCode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Jayesh404/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Jayesh404/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Jayesh404/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Jayesh404/LeetCode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Jayesh404/LeetCode/tree/master/3548-equal-sum-grid-partition-ii) |
