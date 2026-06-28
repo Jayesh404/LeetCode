@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3640-trionic-array-ii](https://github.com/Jayesh404/LeetCode/tree/master/3640-trionic-array-ii) |
 | [3660-jump-game-ix](https://github.com/Jayesh404/LeetCode/tree/master/3660-jump-game-ix) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Jayesh404/LeetCode/tree/master/3661-maximum-walls-destroyed-by-robots) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/Jayesh404/LeetCode/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Jayesh404/LeetCode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Math
 |  |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Jayesh404/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Jayesh404/LeetCode/tree/master/3623-count-number-of-trapezoids-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Jayesh404/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/Jayesh404/LeetCode/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Jayesh404/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3830-find-closest-person](https://github.com/Jayesh404/LeetCode/tree/master/3830-find-closest-person) |
 ## Combinatorics
