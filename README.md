@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/Jayesh404/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1063-best-sightseeing-pair](https://github.com/Jayesh404/LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [1200-minimum-absolute-difference](https://github.com/Jayesh404/LeetCode/tree/master/1200-minimum-absolute-difference) |
+| [1301-number-of-paths-with-max-score](https://github.com/Jayesh404/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1306-jump-game-iii](https://github.com/Jayesh404/LeetCode/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/Jayesh404/LeetCode/tree/master/1345-jump-game-iv) |
 | [1390-four-divisors](https://github.com/Jayesh404/LeetCode/tree/master/1390-four-divisors) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0826-soup-servings](https://github.com/Jayesh404/LeetCode/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/Jayesh404/LeetCode/tree/master/0867-new-21-game) |
 | [1063-best-sightseeing-pair](https://github.com/Jayesh404/LeetCode/tree/master/1063-best-sightseeing-pair) |
+| [1301-number-of-paths-with-max-score](https://github.com/Jayesh404/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Jayesh404/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Jayesh404/LeetCode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Jayesh404/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0798-transform-to-chessboard](https://github.com/Jayesh404/LeetCode/tree/master/0798-transform-to-chessboard) |
 | [0840-magic-squares-in-grid](https://github.com/Jayesh404/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/Jayesh404/LeetCode/tree/master/0921-spiral-matrix-iii) |
+| [1301-number-of-paths-with-max-score](https://github.com/Jayesh404/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1396-count-servers-that-communicate](https://github.com/Jayesh404/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Jayesh404/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Jayesh404/LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
