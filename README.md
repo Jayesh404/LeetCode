@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/Jayesh404/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1063-best-sightseeing-pair](https://github.com/Jayesh404/LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [1200-minimum-absolute-difference](https://github.com/Jayesh404/LeetCode/tree/master/1200-minimum-absolute-difference) |
+| [1260-shift-2d-grid](https://github.com/Jayesh404/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Jayesh404/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Jayesh404/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1306-jump-game-iii](https://github.com/Jayesh404/LeetCode/tree/master/1306-jump-game-iii) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0798-transform-to-chessboard](https://github.com/Jayesh404/LeetCode/tree/master/0798-transform-to-chessboard) |
 | [0840-magic-squares-in-grid](https://github.com/Jayesh404/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/Jayesh404/LeetCode/tree/master/0921-spiral-matrix-iii) |
+| [1260-shift-2d-grid](https://github.com/Jayesh404/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/Jayesh404/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1396-count-servers-that-communicate](https://github.com/Jayesh404/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Jayesh404/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/Jayesh404/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0874-walking-robot-simulation](https://github.com/Jayesh404/LeetCode/tree/master/0874-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/Jayesh404/LeetCode/tree/master/0921-spiral-matrix-iii) |
+| [1260-shift-2d-grid](https://github.com/Jayesh404/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1642-water-bottles](https://github.com/Jayesh404/LeetCode/tree/master/1642-water-bottles) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Jayesh404/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1914-cyclically-rotating-a-grid](https://github.com/Jayesh404/LeetCode/tree/master/1914-cyclically-rotating-a-grid) |
