@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1006-vowel-spellchecker](https://github.com/Jayesh404/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/Jayesh404/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1063-best-sightseeing-pair](https://github.com/Jayesh404/LeetCode/tree/master/1063-best-sightseeing-pair) |
+| [1140-stone-game-ii](https://github.com/Jayesh404/LeetCode/tree/master/1140-stone-game-ii) |
 | [1200-minimum-absolute-difference](https://github.com/Jayesh404/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1260-shift-2d-grid](https://github.com/Jayesh404/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Jayesh404/LeetCode/tree/master/1288-remove-covered-intervals) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0826-soup-servings](https://github.com/Jayesh404/LeetCode/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/Jayesh404/LeetCode/tree/master/0867-new-21-game) |
 | [1063-best-sightseeing-pair](https://github.com/Jayesh404/LeetCode/tree/master/1063-best-sightseeing-pair) |
+| [1140-stone-game-ii](https://github.com/Jayesh404/LeetCode/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/Jayesh404/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Jayesh404/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Jayesh404/LeetCode/tree/master/1458-max-dot-product-of-two-subsequences) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0963-three-equal-parts](https://github.com/Jayesh404/LeetCode/tree/master/0963-three-equal-parts) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Jayesh404/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/Jayesh404/LeetCode/tree/master/1018-largest-perimeter-triangle) |
+| [1140-stone-game-ii](https://github.com/Jayesh404/LeetCode/tree/master/1140-stone-game-ii) |
 | [1390-four-divisors](https://github.com/Jayesh404/LeetCode/tree/master/1390-four-divisors) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Jayesh404/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Jayesh404/LeetCode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
@@ -669,6 +672,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/Jayesh404/LeetCode/tree/master/0724-find-pivot-index) |
+| [1140-stone-game-ii](https://github.com/Jayesh404/LeetCode/tree/master/1140-stone-game-ii) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Jayesh404/LeetCode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1732-find-the-highest-altitude](https://github.com/Jayesh404/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Jayesh404/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -766,6 +770,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/Jayesh404/LeetCode/tree/master/1140-stone-game-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/Jayesh404/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 ## Number Theory
 |  |
@@ -842,4 +847,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Jayesh404/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Jayesh404/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Jayesh404/LeetCode/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Jayesh404/LeetCode/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
