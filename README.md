@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3827-implement-router](https://github.com/Jayesh404/LeetCode/tree/master/3827-implement-router) |
 | [3838-weighted-word-mapping](https://github.com/Jayesh404/LeetCode/tree/master/3838-weighted-word-mapping) |
 | [3863-power-grid-maintenance](https://github.com/Jayesh404/LeetCode/tree/master/3863-power-grid-maintenance) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Jayesh404/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Jayesh404/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Jayesh404/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3830-find-closest-person](https://github.com/Jayesh404/LeetCode/tree/master/3830-find-closest-person) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Jayesh404/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Combinatorics
 |  |
 | ------- |
