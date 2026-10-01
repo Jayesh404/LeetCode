@@ -388,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Jayesh404/LeetCode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Jayesh404/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/Jayesh404/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Jayesh404/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
@@ -543,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Jayesh404/LeetCode/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/Jayesh404/LeetCode/tree/master/0067-add-binary) |
 | [0474-ones-and-zeroes](https://github.com/Jayesh404/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0696-count-binary-substrings](https://github.com/Jayesh404/LeetCode/tree/master/0696-count-binary-substrings) |
@@ -878,4 +880,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Jayesh404/LeetCode/tree/master/1510-stone-game-iv) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Jayesh404/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
