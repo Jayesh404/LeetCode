@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3838-weighted-word-mapping](https://github.com/Jayesh404/LeetCode/tree/master/3838-weighted-word-mapping) |
 | [3863-power-grid-maintenance](https://github.com/Jayesh404/LeetCode/tree/master/3863-power-grid-maintenance) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Jayesh404/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Jayesh404/LeetCode/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3693-climbing-stairs-ii](https://github.com/Jayesh404/LeetCode/tree/master/3693-climbing-stairs-ii) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Jayesh404/LeetCode/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Jayesh404/LeetCode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Jayesh404/LeetCode/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Math
 |  |
 | ------- |
@@ -450,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Jayesh404/LeetCode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Jayesh404/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3647-zero-array-transformation-iii](https://github.com/Jayesh404/LeetCode/tree/master/3647-zero-array-transformation-iii) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Jayesh404/LeetCode/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Sorting
 |  |
 | ------- |
